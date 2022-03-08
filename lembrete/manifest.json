@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Lembrete",
+    "description": "Extensão para lembrete, por: Jonathan Victor.",
+    "author": "Jonathan Victor da Silva",
+    "browser_action": {
+        "default_title": "Lembrete",
+        "default_popup": "index.html"
+    }
+}
